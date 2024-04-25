@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Observer
+comment1.params=temperature\ humidity\ pressure
+comment1.target=void\ update(float,\ float,\ float)
+numComments=2

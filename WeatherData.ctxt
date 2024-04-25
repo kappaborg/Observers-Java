@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WeatherData
+comment1.params=
+comment1.target=WeatherData()
+comment2.params=temperature\ humidity\ pressure
+comment2.target=void\ setMeasurements(float,\ float,\ float)
+comment3.params=
+comment3.target=void\ measurementChanged()
+comment4.params=observer
+comment4.target=void\ registerObserver(Observer)
+comment5.params=observer
+comment5.target=void\ removeObserver(Observer)
+comment6.params=
+comment6.target=void\ notifyObservers()
+numComments=7
